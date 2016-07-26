@@ -1,4 +1,4 @@
-# Curl Wrapper for ~~Yii framework~~ PHP v1.1
+Curl Wrapper for ~~Yii framework~~ PHP v1.1
 
 ## Update
 * This can now be used for non-Yii applications as well. (still works as a component if you're using Yii)
